@@ -1,8 +1,8 @@
 # AGE CALCULATOR
 x = int(2021)
 y = int(input("Enter your Birth of year: "))
-sum = x-y
-print('Your age is ', sum,'.')
+age = x-y
+print('Your age is ', age ,'.')
 
 # Simple Calculator:
 a = int(input("Enter First Number: "))
